@@ -1,0 +1,28 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #fdfff5;
+}
+
+#favgame {
+    background-color: #fdfff5;
+}
+
+section {
+    padding-top: 5rem;
+}
+.card{
+    border-radius: 10px;
+}
+.card img{
+    border-radius: 10px;
+}
+
+.card:hover{
+    transition: all .4s;
+    border: 2px solid #FFA500;
+}
+.card img:hover{
+    transition: all .4s;
+    transform: scale(1.1);
+}
